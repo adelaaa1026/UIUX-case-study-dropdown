@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UIUX-case-study-dropdown/static/css/main.6f0d4621.css",
+    "main.js": "/UIUX-case-study-dropdown/static/js/main.584bccee.js",
+    "static/js/453.77edee95.chunk.js": "/UIUX-case-study-dropdown/static/js/453.77edee95.chunk.js",
+    "index.html": "/UIUX-case-study-dropdown/index.html",
+    "main.6f0d4621.css.map": "/UIUX-case-study-dropdown/static/css/main.6f0d4621.css.map",
+    "main.584bccee.js.map": "/UIUX-case-study-dropdown/static/js/main.584bccee.js.map",
+    "453.77edee95.chunk.js.map": "/UIUX-case-study-dropdown/static/js/453.77edee95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f0d4621.css",
+    "static/js/main.584bccee.js"
+  ]
+}
